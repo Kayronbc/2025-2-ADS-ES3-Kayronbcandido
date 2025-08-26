@@ -1,0 +1,35 @@
+ANALISE SWOT - SimpleBank System
+
+S - FORÇAS
+1. Origem Multiplataforma (chamados 
+recebidos via Whatsapp, forms, e-mail
+2. Ordenação em prioridade SLA
+3. Notificações de SLA vencendo ou 
+vencidos
+4. Atuação em lote
+5. Níveis de usuários
+6. Excelente controle
+
+W - FRAQUEZAS
+1. Exige alto nível de acompanhamento 
+da equipe
+2. Quantidade de atuações em uma 
+mesma solicitação exige registro 
+extenso de logs
+
+O - OPORTUNIDADES
+1. Mercado Financeiro de crédito 
+consignado é enorme
+2. Grande quantidade de bancos e 
+fintechs disponíveis
+3. Investimentos do Governo em ações 
+voltadas ao incentivo ao crédito (CLT, 
+FGTS, etc)
+
+T - AMEAÇAS
+1. Concorrência acirrada: grande oferta 
+de sistemas de HelpDesk e 
+gerenciamento de chamados
+2. Ferramentas com controle menos 
+rígido e menos burocracia, com 
+chamados abertos em chat
